@@ -70,7 +70,7 @@ Repo: https://github.com/Maria-cpp/zeenu_shop
 - **Python**, FastAPI
 - **Prometheus / Grafana / Alertmanager**
 - **Docker / Docker Compose**
-- **HTML / Frontend basics**
+- **React, Next.js**
 - Testing/CI mindset: pytest, linting
 
 ---
